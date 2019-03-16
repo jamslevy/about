@@ -1,4 +1,4 @@
 # James Levy
 
-[Resume](https://jamslevy.github.io/about/) is an online `About Me` page about my interests and experience.
+[My Online Resume](https://jamslevy.github.io/about/) contains some info about my interests and experience.
 
