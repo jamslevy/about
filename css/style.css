@@ -58,7 +58,7 @@
     color: #1abc9c;
  }
 
- .section-primary span {
+ .section-primary span,  .interests span {
     color: #1abc9c;
     font-weight: bolder;
     opacity: 1;
@@ -135,7 +135,7 @@
     text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 }
 
-.section-image span {
+.section-image .intro-desc span {
     text-transform: uppercase;
     font-size: 1.4em;
     padding: 0 10px;
@@ -168,6 +168,11 @@
   color: white;
   text-decoration:none;
   padding: 2em;
+}
+
+.social .website{
+  font-size: 22px;
+  vertical-align: super;
 }
 
 .social a:hover{
@@ -228,6 +233,15 @@ section {
 
 .section-heading .lead, .section-heading h2 {
     text-align: center;
+}
+
+h2 .dates{
+  font-size: .7em;
+  color: rgba(255,255,255,.8);
+  display: inline;
+  margin-top: 7px;
+  float: left;
+  margin-right: 10px;
 }
 
 .section-colour {
